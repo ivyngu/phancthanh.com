@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bài Viết - Phan Công Thạnh</title>
-    <link>http://localhost:1313/</link>
+    <link>https://phancthanh.com/</link>
     <description>Recent content on Bài Viết - Phan Công Thạnh</description>
     <generator>Hugo</generator>
     <language>vi-VN</language>
     <copyright>&amp;copy; 2025, Phan Công Thạnh</copyright>
     <lastBuildDate>Sun, 18 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://phancthanh.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vài Nét Về Vùng Đất Bắc Bán Cầu, Nước Canada (Gia Nã Đại)</title>
-      <link>http://localhost:1313/post/canada/</link>
+      <link>https://phancthanh.com/post/2024-08-18-canada/</link>
       <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/canada/</guid>
+      <guid>https://phancthanh.com/post/2024-08-18-canada/</guid>
       <description>&lt;p&gt;Năm nay 2024, nhân dịp kỳ nghỉ lễ mừng độc lập của Hiệp Chủng Quốc Hoa Kỳ, thường được gọi với cái tên thật gọn là July 4,ba cô con gái nhà tôi, cũng thường được mệnh danh là ba con trăng của nhà họ PHAN (Phan công Thạnh) Đông, Thu và Như Nguyệt. Chị em bọn họ rủ nhau tổ chức một cuộc du ngoạn chung sang đất nước láng giềng CANADA, mục đích là đưa tất cả con cái của bọn họ cùng đi chơi chung với nhau để sang nhìn ngắm, tìm hiểu về các vẻ đẹp, cùng phong cảnh mới lạ tại các thành phố của đất nước láng giềng nầy.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://phancthanh.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://phancthanh.com/about/</guid>
       <description>&lt;p&gt;Phan Công Thạnh ở Mỹ với gia đình.&lt;/p&gt;</description>
     </item>
   </channel>
