@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Bài Viết - Phan Công Thạnh</title>
-    <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on Bài Viết - Phan Công Thạnh</description>
+    <title>Đi Chơi on Bài Viết - Phan Công Thạnh</title>
+    <link>http://localhost:1313/tags/%C4%91i-ch%C6%A1i/</link>
+    <description>Recent content in Đi Chơi on Bài Viết - Phan Công Thạnh</description>
     <generator>Hugo</generator>
     <language>vi-VN</language>
     <copyright>&amp;copy; 2025, Phan Công Thạnh</copyright>
     <lastBuildDate>Sun, 18 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%C4%91i-ch%C6%A1i/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vài Nét Về Vùng Đất Bắc Bán Cầu, Nước Canada (Gia Nã Đại)</title>
       <link>http://localhost:1313/post/canada/</link>
